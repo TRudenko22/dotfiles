@@ -1,0 +1,11 @@
+btop
+bat
+exa
+ranger
+zsa-wally-cli
+neofetch
+neovim
+emacs
+zathura
+zathura-pdf-poppler
+

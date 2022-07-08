@@ -142,7 +142,9 @@ ex ()
 
 set -o vi
 
-EDITOR="vim"
+export EDITOR="vim"
 
 alias doom="/home/tim/.emacs.d/bin/doom"
 alias wub="~/fScreen.sh"
+alias ll="ls -l"
+alias vim="nvim"
